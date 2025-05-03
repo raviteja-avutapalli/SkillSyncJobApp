@@ -1,2 +1,2 @@
 # SkillSyncJobApp
-Job Application using AI based Insights
+Job Application Portal using AI based Insights
